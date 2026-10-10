@@ -1,0 +1,16 @@
+raw_value,state
+300,moist
+350,moist
+400,moist
+450,moist
+600,moist
+650,dry
+700,dry
+730,dry
+760,dry
+800,dry
+820,critical_dry
+850,critical_dry
+900,critical_dry
+950,critical_dry
+1000,critical_dry
